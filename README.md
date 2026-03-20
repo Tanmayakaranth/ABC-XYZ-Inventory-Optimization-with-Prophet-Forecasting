@@ -71,16 +71,15 @@ For each item:
 
 ## 🛠️ Tech Stack
 
--Core: Python 3.10+
--Data Processing
+- Core: Python 3.10+
+- Data Processing:
   - pandas
   - numpy
--Machine Learning / Forecasting: prophet (Facebook Prophet)
--Visualization
+- Machine Learning / Forecasting: prophet (Facebook Prophet)
+- Visualization:
   - matplotlib
   - seaborn
--Statistical Modeling
-  - scipy
+- Statistical Modeling: scipy
 ---
 
 
